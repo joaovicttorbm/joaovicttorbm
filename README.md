@@ -25,7 +25,7 @@ Sou desenvolvedor focado em **Node.js e Java**, com paixão por criar soluções
 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
-| [💈 Sistema de Agendamento](https://agenda-ai-seven.vercel.app/) | App para agendamento de treinos e envio automático de e-mails | Node.js, Express, SQLite, Nodemailer |
+| [💈 Sistema de Agendamento](https://agenda-ai-seven.vercel.app/) | App para agendamento de treinos e envio automático de e-mails | Node.js, Express, MongoDB, Nodemailer, React.ts |
 | [📘 Math-Site](https://math-site-six.vercel.app/) | Site educacional com teoria, exemplos e calculadoras de matemática | Next.js, TailwindCSS, LaTeX, TypeScript |
 
 ---
