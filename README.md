@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o João Victtor 👋
 
-<!--
-**joaovicttorbm/joaovicttorbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor focado em Node.js e Java. Gosto de aprender novas tecnologias e trabalhar em projetos que fazem a diferença.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Node.js, Express
+- Java, Spring Boot
+- React, TypeScript
+- Banco de dados: MongoDB, MySQL
+- Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/joao-victtor-dev) | joaovicttorbispo@gmail.com
+
+## Meus projetos em destaque
+- [Sistema de Agendamento](https://agenda-ai-seven.vercel.app/)
+- [Math-site-six](https://math-site-six.vercel.app/)
